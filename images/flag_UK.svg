@@ -1,0 +1,39 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="24" height="16" viewBox="0 0 24 16">
+  <defs>
+    <clipPath id="clip-path">
+      <rect id="Rectangle_3" data-name="Rectangle 3" width="24" height="16" fill="none"/>
+    </clipPath>
+    <clipPath id="clip-path-2">
+      <path id="Path_10" data-name="Path 10" d="M288.415,389.122h12v8Zm0,0v8h-12Zm0,0h-12v-8Zm0,0v-8h12Z" transform="translate(-276.415 -381.122)" fill="none"/>
+    </clipPath>
+  </defs>
+  <g id="flag_UK" transform="translate(-276.415 -381.122)">
+    <g id="Group_10" data-name="Group 10" transform="translate(276.415 381.122)" clip-path="url(#clip-path)">
+      <g id="Flag_of_the_United_Kingdom" data-name="Flag of the United Kingdom" transform="translate(-0.537 -1.431)">
+        <path id="Path_1" data-name="Path 1" d="M276.415,381.122v16h24v-16Z" transform="translate(-275.878 -379.691)" fill="#0e2153"/>
+        <g id="Group_4" data-name="Group 4">
+          <path id="Path_2" data-name="Path 2" d="M276.415,381.122l24,16m0-16-24,16" transform="translate(-275.878 -379.691)" fill="#030504"/>
+          <path id="Path_8" data-name="Path 8" d="M299.073,397.3l-11.463-7.642L276.146,397.3l-1.073-2.862,9.854-6.569-9.854-6.569,1.073-2.862,11.463,7.642,11.463-7.642,1.073,2.862-9.854,6.569,9.854,6.569Z" transform="translate(-275.073 -378.439)" fill="#fff"/>
+        </g>
+        <g id="Group_7" data-name="Group 7" transform="translate(0.537 1.431)">
+          <g id="Group_6" data-name="Group 6" clip-path="url(#clip-path-2)">
+            <g id="Group_3" data-name="Group 3" transform="translate(-0.358 -0.954)">
+              <g id="Group_5" data-name="Group 5">
+                <path id="Path_3" data-name="Path 3" d="M276.415,381.122l24,16m0-16-24,16" transform="translate(-276.057 -380.168)" fill="#030504"/>
+                <path id="Path_9" data-name="Path 9" d="M299.52,397.241l-11.642-7.761-11.642,7.761-.716-1.908,10.569-7.046-10.569-7.046.716-1.908,11.642,7.762,11.642-7.762.716,1.908-10.569,7.046,10.569,7.046Z" transform="translate(-275.52 -379.333)" fill="#b90722"/>
+              </g>
+            </g>
+          </g>
+        </g>
+        <g id="Group_8" data-name="Group 8" transform="translate(0.537 1.431)">
+          <path id="Path_5" data-name="Path 5" d="M288.415,381.122v16m-12-8h24" transform="translate(-276.415 -381.122)" fill="#030504"/>
+          <path id="Path_11" data-name="Path 11" d="M290.415,397.122h-4v-5.333h-10v-5.333h10v-5.333h4v5.333h10v5.333h-10Z" transform="translate(-276.415 -381.122)" fill="#fff"/>
+        </g>
+        <g id="Group_9" data-name="Group 9" transform="translate(0.537 1.431)">
+          <path id="Path_6" data-name="Path 6" d="M288.415,381.122v16m-12-8h24" transform="translate(-276.415 -381.122)" fill="#030504"/>
+          <path id="Path_12" data-name="Path 12" d="M289.614,397.122h-2.4v-6.4h-10.8v-3.2h10.8v-6.4h2.4v6.4h10.8v3.2h-10.8Z" transform="translate(-276.415 -381.122)" fill="#b90722"/>
+        </g>
+      </g>
+    </g>
+  </g>
+</svg>
